@@ -1,6 +1,6 @@
 # NOAA CO-OPS Station Data
 
-Preview this [Data Package](http://specs.frictionlessdata.io/data-packages/) using the [Data Package Viewer](http://data.okfn.org/tools/view?url=https://raw.githubusercontent.com/ezwelty/cg-data/master/noaa-coops).
+Preview this [Data Package](http://specs.frictionlessdata.io/data-packages/) using the [Data Package Viewer](http://data.okfn.org/tools/view?url=https://github.com/columbia-glacier/noaa-coops).
 
 ## Data
 
